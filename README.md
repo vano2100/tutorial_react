@@ -1,2 +1,2 @@
 # tutorial_react
-just test
+Репозиторий создан для обучения git и react.
