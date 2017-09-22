@@ -38,6 +38,7 @@ var News = React.createClass({
 		return(
 			<div className="news">
 				{newsTemplate}
+				<strong className={data.length > 0 ? '':'none'}>Всего новостей: {data.length}</strong>
 			</div>
 		);
 	}
